@@ -8,4 +8,4 @@ MarkupSafe==2.0.1
 python-dotenv==0.18.0
 Werkzeug==2.0.1
 WTForms==2.3.3
-gunicorn==19.9.0
+gunicorn
