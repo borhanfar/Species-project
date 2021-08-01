@@ -13,11 +13,11 @@
         <form action="{{ url_for('predict')}}" method="post">
             <h2>Fish Species(Bream, Roach, Whitefish, Parkki, Perch, pike, Smelt) Prediction</h2>
             <h3>Weight(gr)</h3><br><input id="first" name="Weight" required="required">
-            <h3>Vertical-length(cm)</h3><br><input id="second" name="Length1" required="required">
+            <h3>Vertical_length(cm)</h3><br><input id="second" name="Length1" required="required">
             <h3>Length(cm)</h3><br><input id="third" name="Length2" required="required">
             <h3>Diagonal_length(cm)</h3><br><input id="fourth" name="Length3" required="required">
-            <h3>Height(cm)</h3><br><input id="fifth" name="Height" required="required">
-            <h3>Width(cm)</h3><br><input id="sixth" name="Width" required="required">
+            <h3>Height(Vertical_length witout fins)(cm)</h3><br><input id="fifth" name="Height" required="required">
+            <h3>Width(without gills)(cm)</h3><br><input id="sixth" name="Width" required="required">
             <br>
 
             <br><br><button id="sub" type="submit ">prediction</button>
