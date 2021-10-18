@@ -19,4 +19,4 @@ https://github.com/borhanfar/species-project-pipeline/blob/main/Apply_three_mode
 ## Transfer application to GitHub
 GitHub ( use a GitHub link )
 ## Deploy application in the Heroku cloud application platform.
-Create a new app and make a name for it on the Heroku platform and Deploy application repository through the Github connection section.
+Create a new app on the Heroku platform and Deploy application repository through the Github connection section.
