@@ -12,5 +12,11 @@ https://www.kaggle.com/aungpyaeap/fish-market
 https://github.com/borhanfar/species-project-pipeline/blob/main/Apply_three_models_on_dataset.ipynb
 # Software Solution
 ## Develop an application in the local machine.
-## Transfer application to GitHub 
+1) Create a virtual environment in the local machine.
+2) Developing the python app by Flask.
+3) Developing the model and connecting the model to the main app.
+4) Developing web templates by HTML and CSS 
+## Transfer application to GitHub
+GitHub ( use a GitHub link )
 ## Deploy application in the Heroku cloud application platform.
+Create a new app and make a name for it on the Heroku platform and Deploy application repository through the Github connection section.
