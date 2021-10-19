@@ -8,6 +8,8 @@ In this project, K-Nearest Neighbor, Support Vector Machine and Random Forest al
 There are three main components ( application, model, templates ) in the application package. The application was developed by the Flask framework. The Support Vector Machine model connected to the application by pickle link. The templates were designed by HTML and CSS. Therefore, the application is able to predict fish species with 97% accuracy through the REST API on the Heroku cloud platform.
 # Dataset Link
 https://www.kaggle.com/aungpyaeap/fish-market
+
+![](Data.png)
 #  Three Pipelines
 https://github.com/borhanfar/species-project-pipeline1/blob/main/Apply_three_models_on_dataset.ipynb
 ![](Pipeline1.png)
