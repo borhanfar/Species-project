@@ -11,6 +11,7 @@ https://www.kaggle.com/aungpyaeap/fish-market
 #  Three Pipelines
 https://github.com/borhanfar/species-project-pipeline1/blob/main/Apply_three_models_on_dataset.ipynb
 ![](Pipeline.png)
+https://github.com/borhanfar/species-project-pipeline2/blob/main/Modifying_dataset_with_StandardScaler_then_apply_three_models.ipynb
 # Software Solution
 ## Develop an application in the local machine.
 1) Create a virtual environment in the local machine.
