@@ -58,4 +58,5 @@ Diagonal _length ( cm ) = Length 3 = 30.0
 Height ( Vertical_length without fins) ( cm ) = Height =11.52
 
 Width ( without gills) ( cm ) = Width = 4.0200
+![](interactwithapi.png)
 
