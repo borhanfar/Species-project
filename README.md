@@ -62,3 +62,6 @@ Width ( without gills) ( cm ) = Width = 4.0200
 
 ![](interacted.png)
 
+When the user chooses the prediction button or press enter key on keyboard, the application starts to predict the species. There is a connection among model.py, main.py and index.html. The data collected through index.html. They are processed in model.py and main.py, then main.py shows the species through result.html. The image below shows how the application displays the prediction through result.html.
+
+
