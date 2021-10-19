@@ -28,4 +28,4 @@ Create a new app on the Heroku platform and Deploy application repository throug
 # Application
 http://fish-prediction-api.herokuapp.com
 # Software testing
-![](APIpage.png)
+![](API.png)
