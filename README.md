@@ -9,7 +9,7 @@ There are three main components ( application, model, templates ) in the applica
 # Dataset Link
 https://www.kaggle.com/aungpyaeap/fish-market
 #  Three Pipelines
-https://github.com/borhanfar/species-project-pipeline/blob/main/Apply_three_models_on_dataset.ipynb
+https://github.com/borhanfar/species-project-pipeline1/blob/main/Apply_three_models_on_dataset.ipynb
 ![](Pipeline.png)
 # Software Solution
 ## Develop an application in the local machine.
