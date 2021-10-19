@@ -13,6 +13,15 @@ https://www.kaggle.com/aungpyaeap/fish-market
 
 
 https://www.kaggle.com/aungpyaeap/fish-market/discussion/97243
+
+Species : Perch, Bream, Roach, Pike, Smelt, Parkki, Whitefish
+Weight = Weight ( gr )
+Length 1 = Vertical _ length ( cm )
+Length 2 = Horizental_length or Length ( cm )
+Length 3 = Diagonal _length ( cm )
+Height = Vertical_length ( cm ) without fins 
+Width = Width ( cm ) without gills 
+
 #  Three Pipelines
 https://github.com/borhanfar/species-project-pipeline1/blob/main/Apply_three_models_on_dataset.ipynb
 ![](Pipeline1.png)
