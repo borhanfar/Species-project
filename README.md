@@ -27,4 +27,4 @@ GitHub ( use a GitHub link )
 Create a new app on the Heroku platform and Deploy application repository through the Github connection section.
 # Application
 http://fish-prediction-api.herokuapp.com
-#Software testing
+# Software testing
