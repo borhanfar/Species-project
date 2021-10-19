@@ -29,3 +29,25 @@ Create a new app on the Heroku platform and Deploy application repository throug
 http://fish-prediction-api.herokuapp.com
 # Software testing
 ![](API.png)
+As can be seen, there are new parameters in the application’s home page. The names of six columns in the dataset have changed to the new names. Because, it helps the better understanding for those people who do not know about dataset and they would like to use the application for their own aims. They are shown below.
+
+Weight ( gr ) = Weight 
+Vertical _ length ( cm ) = Length 1 
+Length ( cm ) = Length 2
+Diagonal _length ( cm ) = Length 3
+Height ( Vertical_length without fins) ( cm ) = Height 
+Width ( without gills) ( cm ) = Width 
+ 
+This is the time to interact and fill the gap in the application. For example, It has chosen the first row from the dataset.
+
+	Species	Weight	Length1	Length2	Length3	Height	   Width
+0	Bream 	242.0	           23.2    	25.4	           30.0	           11.52	   4.0200
+
+ 
+Weight ( gr ) = Weight = 242.0
+Vertical _ length ( cm ) = Length 1 = 23.2
+Length ( cm ) = Length 2 = 25.4
+Diagonal _length ( cm ) = Length 3 = 30.0
+Height ( Vertical_length without fins) ( cm ) = Height =11.52
+Width ( without gills) ( cm ) = Width = 4.0200
+
