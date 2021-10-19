@@ -46,10 +46,7 @@ Width ( without gills) ( cm ) = Width
  
 This is the time to interact and fill the gap in the application. For example, It has chosen the first row from the dataset.
 
-	Species  	Weight	         Length1	Length2  	Length3         	Height	   Width
-0	Bream 	        242.0	           23.2    	25.4	           30.0	                11.52	   4.0200
 
- 
 Weight ( gr ) = Weight = 242.0
 
 Vertical _ length ( cm ) = Length 1 = 23.2
