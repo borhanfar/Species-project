@@ -89,5 +89,5 @@ When the user chooses the prediction button or press enter key on keyboard, the 
 
 # Conclusion
 
-The first part of this project is discovering the best model and linking it to the application. Based on three pipeline documents, the best model was the Support Vector Machine, which is able to predict the fish species with 97% accuracy ( data science approach ). The second part of this project is designing an application and deploying it on the Heroku platform ( full-stack approach ). This project demonstrates the fish species prediction via REST API is a comprehensive system. All the components of this system such as model, main application, templates must be designed and developed very well. Otherwise, the REST API will not work. also This project clearly indicates, to what extent, combining data science with other fields of computer science, could be beneficial and enhance the efficiency of the whole system.
+This project demonstrates the fish species prediction via REST API is a comprehensive system. All the components of this system such as model, main application, templates must be designed and developed very well. Otherwise, the REST API will not work. Also This project clearly indicates, to what extent, combining data science with other fields of computer science, could be beneficial and enhance the efficiency of the whole system.
 
